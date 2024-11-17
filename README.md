@@ -9,7 +9,7 @@
 **Contoh kode program Python3 (Vs Code)**
 **Contoh Input**
 
- ![alt text](image.png)
+ ![alt text](/gambar/image.png)
 
 #### Python
 
