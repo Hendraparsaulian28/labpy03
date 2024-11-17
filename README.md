@@ -35,7 +35,7 @@
 
 **Contoh Output dengan nilai dari N = 5**
 
- ![alt text](image-1.png)
+ ![alt text](/gambar/image-1.png)
 
 ### Latihan 2: latihan2.py 
 Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya.
@@ -43,7 +43,7 @@ Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal a
 **Contoh kode program Python3 (Vs Code)**
 **Contoh Input**
 
- ![alt text](image-2.png)
+ ![alt text](/gambar/image-2.png)
 
 #### Python
 
@@ -105,7 +105,7 @@ Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal a
 
 **Contoh Output dengan hasil laba selama 8 bulan = 200000000/200 juta**
 
- ![alt text](image-3.png)
+ ![alt text](/gambar/image-3.png)
 
 ### Latihan 3: latihan3.py 
 Buat program yang mensimulasikan mesin ATM sederhana. Pengguna memiliki saldo awal sebesar Rp 1.000.000, dan dapat menarik uang hingga saldo habis atau memilih untuk keluar.
@@ -113,7 +113,7 @@ Buat program yang mensimulasikan mesin ATM sederhana. Pengguna memiliki saldo aw
 **Contoh kode program Python3 (Vs Code)**
 **Contoh Input**
 
- ![alt text](image-4.png)
+ ![alt text](/gambar/image-4.png)
  
 #### Python
 
@@ -163,5 +163,5 @@ Buat program yang mensimulasikan mesin ATM sederhana. Pengguna memiliki saldo aw
 
 **Contoh Output Penggunaan**
  
-![alt text](image-5.png)
+![alt text](/gambar/image-5.png)
 
